@@ -15,7 +15,11 @@ Supports two players with customizable player names, score tracking, and reset f
 - Responsive and clean UI with hover effects and smooth transitions.
 
 ---
+## Download the APK
+You can download the app from here:
+[Download XOgame APK] (https://www.upload-apk.com/en/invHZrSrrKxAAUq)
 
+---
 
 ## How to Use
 
