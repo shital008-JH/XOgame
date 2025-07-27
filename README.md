@@ -32,15 +32,7 @@ You can download the app from here:
 7. Use the **Reset Game** button to clear scores, reset player names to default, and start fresh.
 
 ---
-
-## Project Structure
-
-├── index.html # Main HTML structure of the app
-├── styles.css # CSS styling for layout and appearance
-├── script.js # JavaScript logic for game mechanics
-└── README.md # This documentation file
-
----
+  
 
 ## Technologies Used
 
